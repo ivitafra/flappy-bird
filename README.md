@@ -1,4 +1,7 @@
 
+# Credits go to mehmet, he really did create a good template
+
+
 # Flappy Bird Game
 
 This project contains a Flappy Bird game developed using the Python programming language and the Pygame game development library. In this project, reflecting the classic and entertaining game mechanics, players control a bird and navigate it through obstacles to see how long they can survive.
@@ -18,20 +21,6 @@ The player's objective is to control the bird, maneuvering it through pipes and 
 5. Use the spacebar key on the keyboard to control the bird's upward movement.
 6. If the player collides, they can restart the game by pressing the ESC key.
 
-## Why This Project?
-
-- A great opportunity to enhance your fundamental Python programming skills.
-- An engaging and interactive way to dive into game programming.
-- A chance to practice game mechanics and using the Pygame library.
-
-## Contributions and Development
-
-If you're interested in contributing to this project, feel free to open a pull request. We welcome suggestions for adding new features, fixing bugs, or improving the overall experience.
-
 ## License
 
 This project is licensed under the Apache License 2.0. For more information, please refer to the `LICENSE` file.
-
----
-
-Challenge yourself to beat your own high score in Flappy Bird and enjoy the fun of this game! If you have any questions or feedback, don't hesitate to reach out.
